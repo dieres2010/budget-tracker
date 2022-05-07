@@ -23,3 +23,8 @@ The following image shows the web application's appearance and functionality:
 ![mock-up](./images/mock-up.png)
 
 
+## Deployed Application URL:
+
+https://ancient-journey-63025.herokuapp.com/
+
+
